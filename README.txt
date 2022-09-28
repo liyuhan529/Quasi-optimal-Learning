@@ -1,4 +1,4 @@
-dose_new.cpp and param_estimate_func.R contains the implementation of the algorithm. 
+Quasi-optimal Algorithms.cpp and param_estimate_func.R contains the implementation of the algorithm. 
 Environment1.R, Environment2.R, Environment3.R, and Environment4.R, contain the data generation method and testing code for each environment.
 example.R contains example codes for running experiments, main.R contains codes for reproducing results.
 
