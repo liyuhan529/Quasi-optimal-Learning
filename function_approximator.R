@@ -1,5 +1,5 @@
 #' @name param_estimate
-#' @description The parameter estimation function for Entropy-regularized Reinforcement Learning in Continuous Action Space
+#' @description The parameter estimation function for quasi-optimal learning
 #' @param S The state variable matrix
 #' @param A A is the action vector corresponding to state matrix
 #' @param R R is the reward vector corresponding to state matrix
