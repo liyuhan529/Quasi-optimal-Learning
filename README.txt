@@ -6,3 +6,5 @@ The OhioT1DM mHealth dataset used in the real data application section can be re
 https://ohio.qualtrics.com/jfe/form/SV_02QtWEVm7ARIKIl
 To protect the data and ensure that it is used only for research purposes, a Data Use Agreement (DUA) is required. The DUA must be signed by a legal signatory for the research institution as well as by the principal investigator.
 real_data.R contains example code to reproduce results in experiment section.
+
+Codes for competing results can be found at competing methods folder
